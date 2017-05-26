@@ -1,0 +1,29 @@
+{
+  "name": "csgo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('ok')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiejiangchu/csgo.git"
+  },
+  "keywords": [
+    "csgo",
+    "match"
+  ],
+  "author": "xiejiangchu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiejiangchu/csgo/issues"
+  },
+  "homepage": "https://github.com/xiejiangchu/csgo#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
